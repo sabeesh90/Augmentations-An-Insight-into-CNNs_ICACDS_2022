@@ -1,17 +1,13 @@
 # Augmentations: An Insight into their Effectiveness on Convolution Neural Networks
 
-### This paper was presented at ICACDS, 2022 - 23 Aor 2022
+### This paper was presented at ICACDS, 2022 - 23 Apr 2022
 
 ### Authors - Sabeesh E, Bharath Kumar Bolla 
 
 Original Paper : [Research_paper.pdf](https://github.com/sabeesh90/Augmentations-An-Insight-into-CNNs_ICACDS_2022/files/8976007/373_Submission_arxiv.pdf) <br>
 PPT - A Glimpse : [ICACDS.pptx](https://github.com/sabeesh90/Augmentations-An-Insight-into-CNNs_ICACDS_2022/files/8976009/ICACDS.pptx) <br>
 
-
-s | s | s
-
-:-----------:|
-<img src = "https://user-images.githubusercontent.com/48343095/175537119-12165cc8-3d9e-45da-b6c3-2a2a887eada7.jpg" width = 500 height = 600>|:-----------:
+<img src = "https://user-images.githubusercontent.com/48343095/175537119-12165cc8-3d9e-45da-b6c3-2a2a887eada7.jpg" width = 500 height = 600>
 
 <h2> Summary of the Paper </h2>
   - A need to identify augmentations that are consistent across datasets <br>
