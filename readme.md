@@ -28,4 +28,16 @@ The aim of this paper is to design light weight and faster neural networks. <br>
   - Random Affine  / Random Perspective / Color jitters <br>
   - Cutouts / Mixup (Mosiac ML) <br>
    
-   
+<h2> Model Architecture </h2>   
+<img src = "https://user-images.githubusercontent.com/48343095/179441525-d266cb76-ed28-476e-a408-bc2ebad2c4b7.jpg" width = 500 height = 600>
+
+<h2> Results </h2>
+1. Equivocal performances on architectural saturation   - Dimunision of accuracies <br>
+2. 
+
+
+
+
+
+
+
